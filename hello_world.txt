@@ -1,0 +1,1 @@
+Hello World, I am following the odin project as a near computer science graduate
